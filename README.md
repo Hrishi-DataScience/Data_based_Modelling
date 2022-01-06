@@ -4,7 +4,7 @@
 - 🌱 I’m currently learning to integrate Neural Network technique to Physics based simulation.
 - 📫 You can reach me at hrishi.datascience@gmail.com
 
-[![Hrishikesh's github stats](https://github-readme-stats.vercel.app/api?username=Hrishi-DataScience&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/anuraghazra/github-readme-stats)
+[![Hrishikesh's github stats](https://github-readme-stats.vercel.app/api?username=Hrishi-DataScience&count_private=true&show_icons=true&theme=radical&hide_rank=false)](https://github.com/Hrishi-DataScience/github-readme-stats)
 
 <!---
 Hrishi-DataScience/Hrishi-DataScience is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
